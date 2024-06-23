@@ -1,2 +1,7 @@
 # Signup-Flow-Optimization
-This project aims to optimize the signup flow by analyzing user signup and login data using SQL and Tableau
+Complete Documentation of the project is available in 
+
+To interact with tableau dashboard please use the below link:
+https://public.tableau.com/app/profile/shrajan.kumar/viz/shared/N7XFWK5Z8
+
+
