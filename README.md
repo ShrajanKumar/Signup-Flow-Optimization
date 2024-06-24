@@ -20,6 +20,7 @@ Registration is the last step a potential customer takes before starting to inte
 In this case study, we will explore Learner-Point’s current signup and login situation and identify possible areas for improvement.
 Before diving in, let’s take a brief tour of the webpage. Learner-Point is an online learning platform providing technical education courses. Its functionality includes lessons, quizzes, exercises, exams, CourseNotes, gamified features, and news feeds. 
 The registration process is free and requires no debit card or payment method, but to have complete access to all features, one needs a paid account.
+
 ### Web page provides following ways to sign up
 1. Email ID with name and password
 2. Social accounts such as Google, Facebook, LinkedIn
@@ -55,6 +56,7 @@ the sign up process or user interface.
 
 
 ## Getting to know the Data Base
+![5](https://github.com/ShrajanKumar/Signup-Flow-Optimization/assets/138092818/d4e0fb2d-a51d-4fd2-beb7-1f13cf055e23)
 
 Visitors
  1. visitors id : id given to visitor
@@ -97,6 +99,8 @@ Sessions
 
 
 ## Actionable Insights
+Previous signup / login window
+
 Below is the suggested design image emphasizing social media sign-up options.
 ![suggestion](https://github.com/ShrajanKumar/Signup-Flow-Optimization/assets/138092818/9ef316c1-4515-4dff-867d-5a990c736a6b)
 1. Simplify the email sign-up option.
