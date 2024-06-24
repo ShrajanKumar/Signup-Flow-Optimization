@@ -97,7 +97,8 @@ Sessions
 
 
 ## Actionable Insights
-
+Below is the suggested design image emphasizing social media sign-up options.
+![suggestion](https://github.com/ShrajanKumar/Signup-Flow-Optimization/assets/138092818/9ef316c1-4515-4dff-867d-5a990c736a6b)
 1. Simplify the email sign-up option.
 2. Minimize the password requirements for email registration.
 3. Simplify the password restoration process.
