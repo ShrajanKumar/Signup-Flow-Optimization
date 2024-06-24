@@ -94,3 +94,11 @@ Sessions
 11. Sign-up success rates: Google at 91%, LinkedIn at 87%, Facebook at 69%, and email at 65%. Additionally, the email login fail rate is 25%
 12. Login errors include 40,454 instances of invalid email or password, making it the most received error. Out of 13,135 Google errors, 11,598 occurred on Windows or Android. Additionally, 11,460 of the error messages from Windows or Android indicate that the popup was closed by the user, suggesting a potential external issue.
 
+
+## Actionable Insights
+
+1. Simplify the email sign-up option.
+2. Minimize the password requirements for email registration.
+3. Simplify the password restoration process.
+4. Investigate the ‘unknown’ error for Facebook sign-up.
+
