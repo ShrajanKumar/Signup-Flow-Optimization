@@ -99,7 +99,11 @@ Sessions
 
 
 ## Actionable Insights
+
+
 Previous signup / login window
+
+
 ![2](https://github.com/ShrajanKumar/Signup-Flow-Optimization/assets/138092818/48a2bef2-9355-4106-b173-ca5fc2db3a90)
 
 
