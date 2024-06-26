@@ -102,7 +102,9 @@ Sessions
 Previous signup / login window
 ![2](https://github.com/ShrajanKumar/Signup-Flow-Optimization/assets/138092818/48a2bef2-9355-4106-b173-ca5fc2db3a90)
 
+
 Below is the suggested design image emphasizing social media sign-up options.
+
 ![suggestion](https://github.com/ShrajanKumar/Signup-Flow-Optimization/assets/138092818/9ef316c1-4515-4dff-867d-5a990c736a6b)
 1. Simplify the email sign-up option.
 2. Minimize the password requirements for email registration.
